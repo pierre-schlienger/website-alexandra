@@ -599,6 +599,15 @@ About
 	height: 100%;
 }
 
+.content-3-10 .image-container .background-podopediatrie {
+	background: url('../images/07.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 100%;
+}
+
 .content-3-10 .content {
 	margin-top: 300px;
 	padding: 40px;
